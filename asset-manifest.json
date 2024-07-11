@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HouseRentApp/static/css/main.ff02f4b5.css",
-    "main.js": "/HouseRentApp/static/js/main.a589d78f.js",
+    "main.js": "/HouseRentApp/static/js/main.a5765988.js",
     "index.html": "/HouseRentApp/index.html",
     "main.ff02f4b5.css.map": "/HouseRentApp/static/css/main.ff02f4b5.css.map",
-    "main.a589d78f.js.map": "/HouseRentApp/static/js/main.a589d78f.js.map"
+    "main.a5765988.js.map": "/HouseRentApp/static/js/main.a5765988.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.a589d78f.js"
+    "static/js/main.a5765988.js"
   ]
 }
