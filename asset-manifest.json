@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/houserentapp/static/css/main.ff02f4b5.css",
+    "main.js": "/houserentapp/static/js/main.a589d78f.js",
+    "index.html": "/houserentapp/index.html",
+    "main.ff02f4b5.css.map": "/houserentapp/static/css/main.ff02f4b5.css.map",
+    "main.a589d78f.js.map": "/houserentapp/static/js/main.a589d78f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.a589d78f.js"
+  ]
+}
