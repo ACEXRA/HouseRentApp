@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/houserentapp/static/css/main.ff02f4b5.css",
-    "main.js": "/houserentapp/static/js/main.a589d78f.js",
-    "index.html": "/houserentapp/index.html",
-    "main.ff02f4b5.css.map": "/houserentapp/static/css/main.ff02f4b5.css.map",
-    "main.a589d78f.js.map": "/houserentapp/static/js/main.a589d78f.js.map"
+    "main.css": "/HouseRentApp/static/css/main.ff02f4b5.css",
+    "main.js": "/HouseRentApp/static/js/main.a589d78f.js",
+    "index.html": "/HouseRentApp/index.html",
+    "main.ff02f4b5.css.map": "/HouseRentApp/static/css/main.ff02f4b5.css.map",
+    "main.a589d78f.js.map": "/HouseRentApp/static/js/main.a589d78f.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
