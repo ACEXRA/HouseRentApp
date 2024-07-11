@@ -1,15 +1,12 @@
 import React from "react";
-import PaymentDetails from "./module/paymentDetails/PaymentDetails";
-import House from "./module/house/House";
-import Complaint from "./module/complaint/Complaint";
+import Routing from "./routing/Routing";
+import Module from "./model/Module";
 
 const Content = () => {
   return (
-    <div>
-      <House />
-      <PaymentDetails />
-      <Complaint />
-    </div>
+    <Module>
+      <Routing />
+    </Module>
   );
 };
 
