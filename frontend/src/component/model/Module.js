@@ -1,7 +1,7 @@
 import React from "react";
 
-const Module = () => {
-  return <div>module</div>;
+const Module = ({ children }) => {
+  return <div>{children}</div>;
 };
 
 export default Module;
