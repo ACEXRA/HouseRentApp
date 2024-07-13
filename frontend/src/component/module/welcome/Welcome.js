@@ -1,14 +1,10 @@
 import React from "react";
-import Tenant from "./Tenant";
-import Owner from "./Owner";
-import HomePage from "./HomePage";
+import Login from "../authentication/login/Login";
 
 const Welcome = () => {
   return (
     <div>
-      <Tenant />
-      <Owner />
-      <HomePage />
+      <Login />
     </div>
   );
 };

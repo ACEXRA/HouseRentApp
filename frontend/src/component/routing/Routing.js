@@ -4,6 +4,7 @@ import House from "../module/house/House";
 import PaymentDetails from "../module/paymentDetails/PaymentDetails";
 import Complaint from "../module/complaint/Complaint";
 import Welcome from "../module/welcome/Welcome";
+import LoginModel from "../module/authentication/login/LoginModel";
 
 const Routing = () => {
   return (
@@ -12,6 +13,8 @@ const Routing = () => {
       <Route path="/houseDetails" element={<House />} />
       <Route path="/paymentDetails" element={<PaymentDetails />} />
       <Route path="/complaints" element={<Complaint />} />
+      <Route path="/tenantLogin" element={<LoginModel />} />
+      <Route path="/ownerLogin" element={<LoginModel />} />
     </Routes>
   );
 };
