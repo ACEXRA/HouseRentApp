@@ -1,12 +1,15 @@
 import "./App.css";
+import LoginContextProvider from "./component/context/LoginContextProvider";
 import Main from "./component/Main";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="App">
-      <Main />
-    </div>
+    <LoginContextProvider>
+      <div className="App">
+        <Main />
+      </div>
+    </LoginContextProvider>
   );
 }
 

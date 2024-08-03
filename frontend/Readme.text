@@ -1,0 +1,47 @@
+House Rent App
+
+Modules
+-->Tenant module
+-->Owner module
+-->Payment module
+-->Complaint module
+
+Functionality
+-->Login
+-->Routing
+-->Data availability
+-->Role management
+
+Used Tech stack
+-->React js(frontend)
+-->Firebase (backend)(Database + api)
+
+Login
+-->Authentication available in firebase email and password
+-->manually add user to backend
+
+Routing
+-->Based on login route 
+-->Based on role route
+
+Data availability
+-->Based on role
+
+Role Management
+-->Owner and Tenant
+
+Owner Module
+
+-->All house details
+-->Add payment details to each tenant 
+-->Can see complaints and add comment to it
+
+Tenant Module
+
+--> Can see their house details
+-->Can add complaints and edit complaints and add comment to it
+-->Can see payment details
+
+
+Payment and complaint module
+-->Role based access.
